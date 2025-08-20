@@ -1,0 +1,22 @@
+{
+  "name": "notes_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indrajeet-1229/notegenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Indrajeet-1229/notegenerator/issues"
+  },
+  "homepage": "https://github.com/Indrajeet-1229/notegenerator#readme"
+}
